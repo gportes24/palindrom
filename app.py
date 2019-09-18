@@ -8,16 +8,16 @@ from collections import deque, Counter
 ########### Define your variables ######
 
 myheading1='Try out a palindrome here!'
-initial_value='A nut for a jar of tuna'
+initial_value='Borrow or rob?'
 longtext='''
         _Suggestions you might try:_
-        * A man, a plan, a canal: Panama!
-        * Go hang a salami I'm a lasanga hog
-        * God! Nate bit a Tibetan dog!
+        *Are we not pure? “No, sir!”!
+        * Panama’s moody Noriega brags. “It is garbage!” Irony
+        * dooms a man—a prisoner up to new era.!
         '''
-tabtitle = 'racecar'
+tabtitle = 'taco cat'
 sourceurl = 'https://www.grammarly.com/blog/16-surprisingly-funny-palindromes/'
-githublink = 'https://github.com/austinlasseter/dash-simple-callback'
+githublink = 'https://github.com/gportes24/palindrom'
 
 ########### Define a function for your callback:
 def my_function(letters):
